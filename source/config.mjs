@@ -1,8 +1,8 @@
 export const SITE = {
-	name: 'Sindre Sorhus',
-	origin: 'https://sindresorhus.com',
+	name: 'Aravind Chowdary',
+	origin: 'https://dev.aravi.me',
 	basePathname: '/',
-	title: 'Sindre Sorhus',
-	description: 'Full-Time Open-Sourcerer & Aspiring Rebel',
+	title: 'Aravind Chowdary',
+	description: 'Mobile App Developer and Data Scientist',
 	blogPostsPerPage: 10,
 };
